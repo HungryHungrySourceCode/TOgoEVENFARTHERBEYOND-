@@ -133,7 +133,7 @@ MonoBehaviour:
   m_MinSize: {x: 887, y: 492}
   m_MaxSize: {x: 16012, y: 14042}
   vertical: 1
-  controlID: 53
+  controlID: 117
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_MinSize: {x: 887, y: 492}
   m_MaxSize: {x: 16012, y: 14042}
   vertical: 0
-  controlID: 54
+  controlID: 118
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -181,7 +181,7 @@ MonoBehaviour:
   m_MinSize: {x: 610, y: 492}
   m_MaxSize: {x: 12010, y: 14042}
   vertical: 1
-  controlID: 55
+  controlID: 119
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -206,7 +206,7 @@ MonoBehaviour:
   m_MinSize: {x: 610, y: 221}
   m_MaxSize: {x: 12010, y: 4021}
   vertical: 0
-  controlID: 56
+  controlID: 83
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -250,8 +250,8 @@ MonoBehaviour:
     y: 0
     width: 995
     height: 652
-  m_MinSize: {x: 204, y: 221}
-  m_MaxSize: {x: 4004, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -419,7 +419,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 26f9ffff00000000
+    m_ExpandedIDs: eafbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -986,20 +986,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets
+    - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 53
   m_LastFolders:
-  - Assets
+  - Assets/Scenes
   m_LastFoldersGridSize: 53
-  m_LastProjectPath: C:\Users\skylor01\Desktop\Projs\TO go EVEN FARTHER BEYOND!
+  m_LastProjectPath: C:\Users\skylor01\Desktop\Projs\TOgoEVENFARTHERBEYOND!
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: b22b0000
-    m_LastClickedID: 11186
-    m_ExpandedIDs: 00000000b22b0000422e00004c2e000000ca9a3bffffff7f
+    m_SelectedIDs: 400d0000
+    m_LastClickedID: 3392
+    m_ExpandedIDs: 000000006a0c0000700c0000780c000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1027,7 +1027,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000b22b0000
+    m_ExpandedIDs: 000000006a0c0000700c0000780c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1054,7 +1054,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: e8240000ee240000e2240000d8240000d4970100249decfff42500009a16ffff20abfcfffc3100000631000096330000c2260000fa2f000034380000fe7b00004426000000310000c2270000b82a00001233000072150000f81700008c090000d45ff2ff300a0000ca300000de93fdff3e2b0000ecaceaff28330000862902008c2c02004e3400000a740300842900005e3400007e340000922e0000a6340000a65ef9fff2250000e48cf7fff8250000d42600005e2600002826000018260000c2280000ca25000056260000bc290000262a00003a2800002e26000038270000c02c0000902c0000d42c0000d62c0000fa2c0000e62d0000422e0000ee3000000000000042350000be500000ac340000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
